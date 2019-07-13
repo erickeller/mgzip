@@ -1,3 +1,11 @@
+2019-07-13: This project has long been superceded by the "pigz"
+project at https://zlib.net/pigz/. The functionality of pigz is 
+the same and the implementation is superior.
+Thanks, 
+James
+
+Original README file continues: 
+
 !!!!!!!!!!!!!!!!!!!!!!!!!! READ THIS !!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 This program is distributed in the hope that it will be useful,
